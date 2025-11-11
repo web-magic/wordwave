@@ -48,7 +48,8 @@ The architecture is fully asynchronous, horizontally scalable, and deployable th
 
 ## Key Features
 - Extracts text from video files using AI models  
-- Speaker detection and timestamp alignment  
+- Speaker detection and timestamp alignment
+- Automatic language detection across supported languages
 - Downloadable transcripts in plain-text (.txt) format
 - Automatic transcript delivery via email  
 - Asynchronous task-queue processing  
