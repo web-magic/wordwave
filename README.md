@@ -59,14 +59,21 @@ The architecture is fully asynchronous, horizontally scalable, and deployable th
 
 ## Product Preview
 
+*Interface and output examples of WordWave.*
+
 <p align="center">
-  <img src="./assets/ui-sample.png" width="800" alt="WordWave web interface">
-</p>
-<p align="center">
-  <img src="./assets/transcription-result.png" width="800" alt="Example transcript output">
+  <img src="./assets/transcription-result.png" width="390" alt="Example transcript with timestamps and speaker labels">
+  <img src="./assets/automatic-language-detection.png" width="390" alt="Automatic language detection example">
 </p>
 
-*Interface and output examples of WordWave.*
+<p align="center"><em>Example of transcript output with timestamps, speaker identification, and automatic language detection.</em></p>
+
+<p align="center">
+  <img src="./assets/ui-sample.png" width="800" alt="WordWave upload interface">
+</p>
+
+<p align="center"><em>Upload interface for video transcription.</em></p>
+
 
 
 
